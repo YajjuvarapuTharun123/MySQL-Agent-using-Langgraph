@@ -1,0 +1,13 @@
+langchain-groq
+langchain-openai
+langchain-mcp-adapters
+mcp
+langgraph
+mysql-mcp-server
+uv
+uvicorn
+fastapi
+pydantic
+python-dotenv
+redis
+pymongo
