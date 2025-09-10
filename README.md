@@ -10,16 +10,16 @@ The project has been **tested using Postman** for API requests.
 
 ## Features
 
-Connects to a MySQL database via MCP server.
-Agent only answers questions about the table `tharun111`.
-Returns polite responses if a query references other tables.
-Memory-Enabled:
-- Redis – Short-term memory for quick retrieval of recent queries/responses.
-- MongoDB – Long-term memory for conversation history and analytics.
-REST API Endpoints:
-- `POST /query` – Ask a query to the SQL agent.
-- GET /health – Check server health status.
-Tested with Postman for API requests.
+- Connects to a MySQL database via MCP server.
+- Agent only answers questions about the table `tharun111`.
+- Returns polite responses if a query references other tables.
+- Memory-Enabled:
+-- Redis – Short-term memory for quick retrieval of recent queries/responses.
+-- MongoDB – Long-term memory for conversation history and analytics.
+- REST API Endpoints:
+-- `POST /query` – Ask a query to the SQL agent.
+-- GET /health – Check server health status.
+- Tested with Postman for API requests.
 
 ---
 
